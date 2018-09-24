@@ -1,0 +1,261 @@
+63673307023454620011 - Request: GET http://localhost:50710/api/Values
+
+63673307023454620011 - Response: GET http://localhost:50710/api/Values
+Internal Server Error
+63673307032567100110 - Request: GET http://localhost:50710/api/Values/Get
+
+63673307032567100110 - Response: GET http://localhost:50710/api/Values/Get
+Internal Server Error
+63673307054216101612 - Request: GET http://localhost:50710/api/Values/Get
+
+63673307054216101612 - Response: GET http://localhost:50710/api/Values/Get
+Internal Server Error
+63673307054937108317 - Request: GET http://localhost:50710/api/Values/Get
+
+63673307054937108317 - Response: GET http://localhost:50710/api/Values/Get
+Internal Server Error
+63673307094331018911 - Request: GET http://localhost:50710/api/Values/Get
+
+63673307094331018911 - Response: GET http://localhost:50710/api/Values/Get
+Internal Server Error
+63673307163116833911 - Request: GET http://localhost:50710/api/Values/
+
+63673307163116833911 - Response: GET http://localhost:50710/api/Values/
+Internal Server Error
+6367330722174209416 - Request: GET http://localhost:50710/api/Values
+
+6367330722174209416 - Response: GET http://localhost:50710/api/Values
+<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>value1</string><string>value2</string></ArrayOfstring>
+6367330734127956526 - Request: GET http://localhost:50710/api/Values?Age=45
+
+6367330734127956526 - Response: GET http://localhost:50710/api/Values?Age=45
+Internal Server Error
+6367330754776843536 - Request: PUT http://localhost:50710/api/Values?Age=45
+name=lamnour&email=a.l%40gmail.com&willattend=true
+6367330754776843536 - Response: PUT http://localhost:50710/api/Values?Age=45
+{"Persons":[],"Messages":[]}
+6367330784414111216 - Request: PUT http://localhost:50710/api/Values?Age=45
+{
+	"request":{
+		"age" :45
+	}
+}
+6367330784414111216 - Response: PUT http://localhost:50710/api/Values?Age=45
+{"Persons":[],"Messages":[]}
+6367330801488974826 - Request: PUT http://localhost:50710/api/Values
+{
+	"request":{
+		"age" :45
+	}
+}
+6367330801488974826 - Response: PUT http://localhost:50710/api/Values
+{"Persons":[],"Messages":[]}
+6367330804023914006 - Request: PUT http://localhost:50710/api/Values
+{
+	"request":{
+		"age" :45
+	}
+}
+6367330804023914006 - Response: PUT http://localhost:50710/api/Values
+{"Persons":[],"Messages":[]}
+6367330884167329566 - Request: PUT http://localhost:50710/api/Values
+{
+	"request": {
+		"age": 45
+	}
+}
+6367330884167329566 - Response: PUT http://localhost:50710/api/Values
+{"Persons":[],"Messages":[]}
+6367330889365060136 - Request: PUT http://localhost:50710/api/Values
+{
+	"Request": {
+		"Age": 45
+	}
+}
+6367330889365060136 - Response: PUT http://localhost:50710/api/Values
+{"Persons":[],"Messages":[]}
+6367330926771172456 - Request: PUT http://localhost:50710/api/Values
+{
+	"Request": {
+		"Age": 45
+	}
+}
+6367330926771172456 - Response: PUT http://localhost:50710/api/Values
+Method Not Allowed
+6367330929387835979 - Request: PUT http://localhost:50710/api/Values
+{
+	"Request": {
+		"Age": 45
+	}
+}
+6367330938650581698 - Request: PUT http://localhost:50710/api/Values
+{
+	"Request": {
+		"Age": 45
+	}
+}
+6367331027387391027 - Request: PUT http://localhost:50710/api/Values
+{
+	"Request": {
+		"Age": 45
+	}
+}
+6367331027387391027 - Response: PUT http://localhost:50710/api/Values
+Internal Server Error
+6367331035793378976 - Request: PUT http://localhost:50710/api/Values
+{
+	"Request": {
+		"Age": 45
+	}
+}
+6367331035793378976 - Response: PUT http://localhost:50710/api/Values
+Internal Server Error
+6367331053051423727 - Request: PUT http://localhost:50710/api/Values
+{
+	"Request": {
+		"Age": 45
+	}
+}
+6367331053051423727 - Response: PUT http://localhost:50710/api/Values
+{"Persons":[],"Messages":[]}
+6367331054487967176 - Request: PUT http://localhost:50710/api/Values
+{
+	"Request": {
+		"Age": 45
+	}
+}
+6367331058851496346 - Request: PUT http://localhost:50710/api/Values
+{
+	"Request": {
+		"Age": 45
+	}
+}
+6367331058851496346 - Response: PUT http://localhost:50710/api/Values
+Bad Request
+6367331108351078086 - Request: PUT http://localhost:50710/api/Values
+------WebKitFormBoundaryDAtbF7ue8mjVg6YS
+Content-Disposition: form-data; name="Age"
+
+45
+------WebKitFormBoundaryDAtbF7ue8mjVg6YS--
+
+6367331108351078086 - Response: PUT http://localhost:50710/api/Values
+Bad Request
+6367331112959602106 - Request: PUT http://localhost:50710/api/Values
+{
+	"Request": {
+		"Age": 45
+	}
+}
+6367331117540389606 - Request: PUT http://localhost:50710/api/Values
+{
+	"Request": {
+		"Age": 45
+	}
+}
+6367331117540389606 - Response: PUT http://localhost:50710/api/Values
+Bad Request
+6367331208874114997 - Request: PUT http://localhost:50710/api/Values
+{
+		"Age": 45
+}
+6367331208874114997 - Response: PUT http://localhost:50710/api/Values
+Bad Request
+6367331248948080087 - Request: PUT http://localhost:50710/api/Values
+{
+		"Age": 45
+}
+6367331283846949217 - Request: PUT http://localhost:50710/api/Values
+{
+		"Age": 45
+}
+6367331283846949217 - Response: PUT http://localhost:50710/api/Values
+{"persons":[{"firstName":"John","lastName":"Wick","age":45}],"messages":["John Wick"]}
+6367331290577165906 - Request: PUT http://localhost:50710/api/Values
+{"request":{
+		"Age": 45
+}
+	
+}
+6367331290577165906 - Response: PUT http://localhost:50710/api/Values
+Bad Request
+6367331293048359587 - Request: PUT http://localhost:50710/api/Values
+------WebKitFormBoundarytDMUiB894wUkUFAg
+Content-Disposition: form-data; name="Age"
+
+50
+------WebKitFormBoundarytDMUiB894wUkUFAg--
+
+6367331293048359587 - Response: PUT http://localhost:50710/api/Values
+Bad Request
+6367331296073622748 - Request: PUT http://localhost:50710/api/Values
+{		"Age": 45
+}
+6367331296073622748 - Response: PUT http://localhost:50710/api/Values
+{"persons":[{"firstName":"John","lastName":"Wick","age":45}],"messages":["John Wick"]}
+6367331297513647219 - Request: PUT http://localhost:50710/api/Values
+{		"Age": 50
+}
+6367331297513647219 - Response: PUT http://localhost:50710/api/Values
+{"persons":[{"firstName":"Tom","lastName":"Hanks","age":50}],"messages":["Tom Hanks"]}
+6367331298696787067 - Request: PUT http://localhost:50710/api/Values
+{		"age": 50
+}
+6367331298696787067 - Response: PUT http://localhost:50710/api/Values
+{"persons":[{"firstName":"Tom","lastName":"Hanks","age":50}],"messages":["Tom Hanks"]}
+6367331300244172957 - Request: PUT http://localhost:50710/api/Values
+{		"age": 60
+}
+6367331300244172957 - Response: PUT http://localhost:50710/api/Values
+{"persons":[],"messages":[]}
+6367331302394255897 - Request: PUT http://localhost:50710/api/Values
+------WebKitFormBoundary84vdvJEgkrnEziHR
+Content-Disposition: form-data; name="age"
+
+70
+------WebKitFormBoundary84vdvJEgkrnEziHR--
+
+6367331302394255897 - Response: PUT http://localhost:50710/api/Values
+Bad Request
+6367331306143226037 - Request: PUT http://localhost:50710/api/Values
+age=80
+6367331306143226037 - Response: PUT http://localhost:50710/api/Values
+{"persons":[],"messages":[]}
+6367331308580209026 - Request: PUT http://localhost:50710/api/Values
+age=80
+6367331308580209026 - Response: PUT http://localhost:50710/api/Values
+{"persons":[],"messages":[]}
+6367331311943461256 - Request: GET http://localhost:50710/api/Values/14
+
+6367331311943461256 - Response: GET http://localhost:50710/api/Values/14
+Method Not Allowed
+6367331338780282196 - Request: PUT http://localhost:50710/api/Values
+age=90
+6367331338780282196 - Response: PUT http://localhost:50710/api/Values
+{"persons":[],"messages":[]}
+2018 - 09 - 23 04: 06:22 - Requete: PUT http://localhost:50710/api/Values
+age=50
+2018 - 09 - 23 04: 06:23 - Reponse: PUT http://localhost:50710/api/Values
+{"persons":[{"firstName":"Tom","lastName":"Hanks","age":50}],"messages":["Tom Hanks"]}
+2018-09-23 04:07:46 - Requete: PUT http://localhost:50710/api/Values
+age=50
+2018-09-23 04:07:47 - Reponse: PUT http://localhost:50710/api/Values
+{"persons":[{"firstName":"Tom","lastName":"Hanks","age":50}],"messages":["Tom Hanks"]}
+2018-09-23 04:09:19 - Requete: PUT http://localhost:50710/api/Values
+
+2018-09-23 04:09:21 - Reponse: PUT http://localhost:50710/api/Values
+Internal Server Error
+2018-09-23 04:10:12 - Requete: PUT http://localhost:50710/api/Values
+
+2018-09-23 04:10:24 - Reponse: PUT http://localhost:50710/api/Values
+Internal Server Error
+2018-09-23 04:13:28 - Requete: PUT http://localhost:50710/api/Values
+
+2018-09-23 04:14:22 - Requete: PUT http://localhost:50710/api/Values
+age=0
+2018-09-23 04:14:35 - Reponse: PUT http://localhost:50710/api/Values
+Bad Request
+2018-09-23 04:15:16 - Requete: PUT http://localhost:50710/api/Values
+age=0
+2018-09-23 04:15:20 - Reponse: PUT http://localhost:50710/api/Values
+Bad Request
